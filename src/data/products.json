@@ -1,0 +1,53 @@
+[
+    {
+      "id": 1,
+      "name": "HC Care Complex Bitkisel Saç Bakım Kompleksi - 100 ml",
+      "price": 569,
+      "originalPrice": 599,
+      "image": "https://cdn.dsmcdn.com/mnresize/1200/1800/ty1433/product/media/images/prod/QC/20240623/12/d4865585-634d-3428-870a-444e9c32cb82/1_org_zoom.jpg",
+      "description": "Son 30 Günün En Düşük Fiyatı!",
+      "rating": 4,
+      "reviewCount": 44797
+    },
+    {
+      "id": 2,
+      "name": "Trendyol Collection Black High Waist Straight Jeans",
+      "price": 299,
+      "originalPrice": 399,
+      "image": "https://via.placeholder.com/150",
+      "description": "En Uygun Fiyat",
+      "rating": 5,
+      "reviewCount": 987
+    },
+    {
+      "id": 3,
+      "name": "Trendyol Collection Navy Blue Striped Premium Soft Fabric Blouse",
+      "price": 199,
+      "originalPrice": 249,
+      "image": "https://via.placeholder.com/150",
+      "description": "Kaliteli ve Şık",
+      "rating": 4,
+      "reviewCount": 1234
+    },
+    {
+      "id": 4,
+      "name": "Trendyol Modest Black Ribbed U-Neck Knitted T-Shirt",
+      "price": 99,
+      "originalPrice": 149,
+      "image": "https://via.placeholder.com/150",
+      "description": "Şimdi Daha Ucuz",
+      "rating": 4,
+      "reviewCount": 678
+    },
+    {
+      "id": 5,
+      "name": "Happiness İstanbul Women's Black V-Neck Oversize Long Knitwear Sweatshirt",
+      "price": 159,
+      "originalPrice": 199,
+      "image": "https://via.placeholder.com/150",
+      "description": "Fırsat Ürünü",
+      "rating": 5,
+      "reviewCount": 456
+    }
+  ]
+  
